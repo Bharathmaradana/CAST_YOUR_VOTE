@@ -1,0 +1,39 @@
+.circularbar {
+  height: 20%;
+  width: 20%;
+}
+
+.circularbar_1 {
+  height: 20%;
+  width: 20%;
+  color: red !important;
+  margin-left: 10% !important;
+}
+
+.circularbar_2 {
+  height: 20%;
+  width: 20%;
+  color: green !important;
+}
+
+
+
+.dash__res{
+  display: flex;
+  flex-direction: column;
+}
+
+.progress_1 {
+  margin-left: 5%;
+  margin-top: 10%;
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+  justify-content: space-between !important;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+.CircularProgressbar-text {
+  font-size: 6px !important;
+}
