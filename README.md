@@ -74,4 +74,9 @@ react-router-dom: ^4.2.2 | mongoose: ^4.7.4
 
 
 # Screenshots of this project
+![1689488016150](https://github.com/Bharathmaradana/CAST_YOUR_VOTE/assets/95957169/a44a92aa-4e40-4637-b9ee-ad51d0a4792a)
+![1689488016250](https://github.com/Bharathmaradana/CAST_YOUR_VOTE/assets/95957169/ad9bd0da-e9a3-498b-891d-c885d5afb044)
+![1689488015640](https://github.com/Bharathmaradana/CAST_YOUR_VOTE/assets/95957169/cf637a8f-2878-4c96-bfe4-45b645e858d7)
+![1689488015823](https://github.com/Bharathmaradana/CAST_YOUR_VOTE/assets/95957169/f2beaf0b-a530-4acb-bd07-c6db1b1e5d88)
+![1689488017931](https://github.com/Bharathmaradana/CAST_YOUR_VOTE/assets/95957169/618959fb-6945-4d22-bfad-be57d151325f)
 
